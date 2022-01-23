@@ -17,6 +17,9 @@ This Application is Google Books API Search Engine built in MERN Stack using Gra
 ## Usage
 This App enables users to search for books by inserting the book's name in the search bar. To use the app you have to create an account by giving your username, email and password. When the user login he will be able to save a book and delete them if he does not like them anymore. Once a user saves a book, it is stored in their account and they can go through the book at their convenience.
 
+
+## Screenshots
+
 <img width="949" alt="bse4" src="https://user-images.githubusercontent.com/87605893/150686698-d57edf40-19b6-4224-a7cc-9a3f9ef552ad.png">
 
 <img width="948" alt="bse2" src="https://user-images.githubusercontent.com/87605893/150686777-a1dc75ba-db0f-47c1-85f9-b247dfadbde0.png">
