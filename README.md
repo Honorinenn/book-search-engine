@@ -19,6 +19,9 @@ This App enables users to search for books by inserting the book's name in the s
 
 <img width="949" alt="bse4" src="https://user-images.githubusercontent.com/87605893/150686698-d57edf40-19b6-4224-a7cc-9a3f9ef552ad.png">
 
+<img width="948" alt="bse2" src="https://user-images.githubusercontent.com/87605893/150686777-a1dc75ba-db0f-47c1-85f9-b247dfadbde0.png">
+
+
 
 ## Technologies Used
 MongoDB
