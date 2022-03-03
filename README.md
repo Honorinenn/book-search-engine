@@ -40,7 +40,7 @@ GraphQL
 MIT License
 
 ## Contributing
-All contributions are welcomed.
+All contributions are welcome.
 
 ## Tests
 
