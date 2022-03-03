@@ -1,6 +1,7 @@
 # book-search-engine 
 
-This Application is Google Books API Search Engine built in MERN Stack using GraphQL API. As a user you can sign up for an account and login. The user can search for books and save their preferred books.
+This Application is Google Books API Search Engine built in MERN Stack using GraphQL API. As a user you can sign up for an account and login. The user can search for books and save their preferred books. The deploy link to this app is displayed below:
+https://book-search-engine-hn.herokuapp.com/
 
 ![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
      
